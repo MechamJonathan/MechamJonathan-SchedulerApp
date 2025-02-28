@@ -5,9 +5,7 @@ This application is designed to help users manage appointments and customer info
 
 ## Author
 **Name:** Jonathan Mecham  
-**Contact:** [Your Email]  
 **Version:** 1.0  
-**Date:** [Submission Date]
 
 ## Development Environment
 - **IDE:** IntelliJ IDEA Community 2020.01
